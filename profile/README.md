@@ -3,6 +3,7 @@
 # 💸 페이올(PayAll)
 <details>
 <summary>소비 습관 관리 및 최저가 상품 제공 플랫폼</summary>
+     
 ![Image](https://github.com/user-attachments/assets/b3b7da3e-f451-4135-ac76-995abb5f5d2b)
 </details>
 
