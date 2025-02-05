@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## 🐤 팀 옥지덕지
 
 ##### 디지털 하나로 4기 - 비대면 금융 서비스 개발 프로젝트
