@@ -42,6 +42,9 @@
 ### Jacoco
 ![jacoco](https://github.com/user-attachments/assets/132d3886-3a61-4ef5-8bf2-9fc2529f6546)
 
+### Storybook
+![Storybook](https://github.com/user-attachments/assets/00041d7e-1833-4a61-a6ac-11f046d4abb6)
+
 
 ## 🚀 기술 스택
 
