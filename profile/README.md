@@ -20,19 +20,22 @@
 <details>
 <summary>기능 설명</summary>
 
-카테고리별 소비
+# 카테고리별 소비
 
 ![Image](https://github.com/user-attachments/assets/202b6d44-44d3-485b-8361-02bb36f79c0d)
 
-소비 목표 설정
+
+# 소비 목표 설정
 
 ![Image](https://github.com/user-attachments/assets/9f4c88c7-3ffc-484d-a0ac-decde2e611f0)
 
-최저가 상품 제공
+
+# 최저가 상품 제공
 
 ![Image](https://github.com/user-attachments/assets/0fe8b8ab-26b7-4e0d-ab4b-d66356a33059)
 
-소비내역 기반 추천 서비스
+
+# 소비내역 기반 추천 서비스
 
 ![Image](https://github.com/user-attachments/assets/173ef75b-1880-42d6-805f-478ba67c5b1b)
 
@@ -107,4 +110,3 @@
     </tr>
   </tbody>
 </table>
----
