@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:333333,100:8a8a8a&text=PayAll&fontSize=70&textBg=false&descAlignY=60&descAlign=50&animation=fadeIn&fontAlignY=40)
 
 # 💸 페이올(PayAll)
-
+<details>
+<summary>
 ### 소비 습관 관리 및 최저가 상품 제공 플랫폼
-
+</summary>
 ![Image](https://github.com/user-attachments/assets/b3b7da3e-f451-4135-ac76-995abb5f5d2b)
+</details>
+
+
+
 
 ## 🔥 주요 기능
 
