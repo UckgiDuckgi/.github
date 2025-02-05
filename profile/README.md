@@ -39,7 +39,8 @@
 ### Swagger
 ![Swagger](https://github.com/user-attachments/assets/c5fa5515-8aa3-452f-9643-b12504a9d32b)
 
-
+### Jacoco
+![jacoco](https://github.com/user-attachments/assets/132d3886-3a61-4ef5-8bf2-9fc2529f6546)
 
 
 ## 🚀 기술 스택
