@@ -32,9 +32,7 @@
 ## 📊 테스트
 
 ### Swagger
-<img width="569" alt="Swagger1" src="https://github.com/user-attachments/assets/61cafeeb-7826-48ad-8c0c-d986b655b2a1" />
-<img width="569" alt="Swagger2" src="https://github.com/user-attachments/assets/24f89a6d-5e33-4643-a68f-6f61bf537ed3" />
-<img width="565" alt="Swagger3" src="https://github.com/user-attachments/assets/076d088a-88e9-490d-8c53-fd501abc9b8d" />
+
 
 
 
