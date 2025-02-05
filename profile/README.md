@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=waving&color=8&height=300&section=header&text=PayAll&fontSize=90)](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:333333,100:8a8a8a&text=PayAll&fontSize=70&textBg=false&descAlignY=60&descAlign=50&animation=fadeIn&fontAlignY=40)
+[![header]((https://capsule-render.vercel.app/api?type=waving&height=200&color=0:333333,100:8a8a8a&text=PayAll&fontSize=70&textBg=false&descAlignY=60&descAlign=50&animation=fadeIn&fontAlignY=40))]
 
 # 💸 페이올(PayAll)
 
