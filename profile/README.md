@@ -105,13 +105,13 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/somea82"><img src="https://avatars.githubusercontent.com/u/97287973?v=4" width="100px;" alt=""/><br /><sub><b> 문규빈 </b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/Min-swo"><img src="https://avatars.githubusercontent.com/u/80453129?v=4" width="100px;" alt=""/><br /><sub><b> 김민서 </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/insun-k"><img src="https://avatars.githubusercontent.com/u/81949359?v=4" width="100px;" alt=""/><br /><sub><b> 김인선 </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/laputa-n"><img src="https://avatars.githubusercontent.com/u/128452330?v=4" width="100px;" alt=""/><br /><sub><b> 남승혁 </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/hhbb0081"><img src="https://avatars.githubusercontent.com/u/102276917?v=4" width="100px;" alt=""/><br /><sub><b> 문해빈 </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/Sionparadox"><img src="https://avatars.githubusercontent.com/u/99112680?v=4" width="100px;" alt=""/><br /><sub><b> 박시온 </b></sub></a><br /></td>
-<td align="center"><a href="https://github.com/GyuhoTiger"><img src="https://avatars.githubusercontent.com/u/177179409?v=4" width="100px;" alt=""/><br /><sub><b> 이규호 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/somea82"><img src="https://avatars.githubusercontent.com/u/97287973?v=4" width="100px;" alt=""/><br /><sub><b> 문규빈 </b></sub></a><br />팀장, BE<br /></td>
+    <td align="center"><a href="https://github.com/Min-swo"><img src="https://avatars.githubusercontent.com/u/80453129?v=4" width="100px;" alt=""/><br /><sub><b> 김민서 </b></sub></a><br />FE,BE<br /></td>
+<td align="center"><a href="https://github.com/insun-k"><img src="https://avatars.githubusercontent.com/u/81949359?v=4" width="100px;" alt=""/><br /><sub><b> 김인선 </b></sub></a><br />BE,Data<br /></td>
+<td align="center"><a href="https://github.com/laputa-n"><img src="https://avatars.githubusercontent.com/u/128452330?v=4" width="100px;" alt=""/><br /><sub><b> 남승혁 </b></sub></a><br />BE<br /></td>
+<td align="center"><a href="https://github.com/hhbb0081"><img src="https://avatars.githubusercontent.com/u/102276917?v=4" width="100px;" alt=""/><br /><sub><b> 문해빈 </b></sub></a><br />FE,Design<br /></td>
+<td align="center"><a href="https://github.com/Sionparadox"><img src="https://avatars.githubusercontent.com/u/99112680?v=4" width="100px;" alt=""/><br /><sub><b> 박시온 </b></sub></a><br />FE,INFRA<br /></td>
+<td align="center"><a href="https://github.com/GyuhoTiger"><img src="https://avatars.githubusercontent.com/u/177179409?v=4" width="100px;" alt=""/><br /><sub><b> 이규호 </b></sub></a><br />BE<br /></td>
     </tr>
   </tbody>
 </table>
