@@ -1,7 +1,8 @@
 # 💸 똑똑한 소비 생활, 페이올(PayAll)
-소비 습관 관리 및 최저가 상품 제공 플랫폼
 
 ![PortfolIo (2)](https://github.com/user-attachments/assets/eeaefaf8-c84d-4372-815e-720c725505e2)
+
+### <span><a href="payall.topician.com" />🔗 PayAll</span>
 
 ### 바로가기
 - [🔥 주요 기능](#-주요-기능)
@@ -17,7 +18,7 @@
 - 계좌 별 지출 내역 확인이 가능합니다.
 - 각 지출 내역의 소비 상세 내역 및 상품 별 최저가가 제공됩니다.
 
-
+![소비내역](https://github.com/user-attachments/assets/9115e609-80af-49a3-babf-a700587fa29d)
 
 - 월별 소비한 내역을 기준으로 하루 평균 기준, 지난 달 대비로 비교하고, 고정 지출도 파악하여 제공합니다.
 - 카테고리 별 지출을 다양한 형태로 한 눈에 확인이 가능하며, 카테고리를 기준으로 지출 내역을 따로 확인 가능합니다.
@@ -32,7 +33,7 @@
 - 소비 목표를 지킬 수 있도록 내 일별 소비 금액 및 아껴야 하는 금액을 보여줍니다.
 - 최저가를 통해 절약한 총 금액 또한 제공됩니다.
  
-![소비목표 등록 - Clipchamp로 제작](https://github.com/user-attachments/assets/dd5ddb5d-e372-4595-a39a-e78dc2680de3)
+![소비목표](https://github.com/user-attachments/assets/6c3d8181-0771-44f3-8648-ed4fbcc4f5fd)
 
 <hr />
 
